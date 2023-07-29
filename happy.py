@@ -1,2 +1,2 @@
-print("Vamsi")print("Vamsi Kiran suresh")
+print("Vamsi")
 print("Suresh is God")
